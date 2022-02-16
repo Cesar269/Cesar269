@@ -1,7 +1,7 @@
 ## ¡Hola! Soy César Leal 👋 🇲🇽
 Leal para los amigos 😉
 
-Soy un desarrollador Full Stack Sr 🤓 que reside en los limites entre CDMX y el Estado de México.
+Soy un desarrollador Full Stack Jr 🤓 que reside en los limites entre CDMX y el Estado de México.
 Me gusta aventurarme aprendiendo diversas tecnologías 💻 y enfrentarme a nuevo retos. Me considero un chico autodidacta, así que me gusta sacar provecho de ello. 
 
 Actualmente estudio 📘 Ing. en Sistemas Computacionales en la Escuela Superior de Computo 💛 ( <a href="https://www.ipn.mx/" target="_blank">**IPN** </a> - <a href="https://www.escom.ipn.mx/" target="_blank">**ESCOM** </a>). Amo la música 🎵  y me encanta hacer deporte y ejercicio 🏀 💪 🏃‍♂️.
